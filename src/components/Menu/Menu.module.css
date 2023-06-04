@@ -1,0 +1,21 @@
+
+.option{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 32vw;
+    margin-left:2rem ;
+    /* margin-top: 0; */
+
+}
+
+.particular{
+    padding:0 20px;
+    border-radius: 5px;
+}
+
+.particular:hover{
+    cursor: pointer;
+    background-color: rgb(209, 204, 204);
+}
+

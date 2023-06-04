@@ -1,0 +1,24 @@
+.alloptions{
+    display: flex;
+    align-items: center;
+    background-color: rgb(220, 214, 214);
+    height: 2rem;
+    margin:0.5rem 1rem;
+    border-radius: 10px;
+}
+
+.part{
+    margin-left:1.2rem;
+    font-size: 20px;
+    padding:0 2px;
+}
+
+.part:hover{
+    cursor: pointer;
+}
+
+.edit{
+    flex-basis: right;
+    margin-left:4rem;
+    font-size: 20px;
+}
