@@ -10,12 +10,12 @@
 }
 
 .particular{
-    padding:0 20px;
+    padding:0 10px;
     border-radius: 5px;
 }
 
 .particular:hover{
     cursor: pointer;
-    background-color: rgb(209, 204, 204);
+    background-color: rgb(239, 229, 229);
 }
 

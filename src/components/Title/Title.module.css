@@ -16,5 +16,14 @@ input{
 
 .star{
     margin-left: 1rem;
+    cursor: pointer;
+}
+
+.right{
+    flex-basis: right;
+    margin-left:55rem;
+    font-size: 2rem;
+    margin-top:2rem;
+    gap:2rem;
 }
 

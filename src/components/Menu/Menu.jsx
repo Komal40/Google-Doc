@@ -1,7 +1,10 @@
-import React from 'react'
+import React, { useState } from 'react'
 import style from './Menu.module.css'
+import { useSelector } from 'react-redux'
 
 export default function Menu() {
+
+
     const options = [
         'File',
         'Edit',
@@ -14,6 +17,7 @@ export default function Menu() {
     ]
 
     return (
+        <>
         <div className={style.option}>
             {
                 options.map((ele, idx) => {
@@ -21,5 +25,8 @@ export default function Menu() {
                 })
             }
         </div>
+        </>
     )
 }
+
+
