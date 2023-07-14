@@ -1,8 +1,8 @@
-React Google Docs Clone
+## React Google Docs Clone
 
 This project is a React.js application that resembles Google Docs, providing users with a user-friendly interface for document editing, formatting, and essential functionalities. It incorporates React Icons for an enhanced toolbar and follows modern web development best practices.
 
-#Features-
+# Features
 
 Document Editing: Users can create, edit, and update documents in real-time, similar to Google Docs.
 
@@ -13,8 +13,8 @@ Toolbar: The toolbar provides easy access to formatting options and document man
 Undo/Redo: Users can undo or redo changes made to the document.
 
 
-#Installation-
-Clone the repository: git clone https://github.com/Komal40/Google-Doc
+# Installation
+Clone the repository: git clone https://github.com/Komal40/Google-Doc.git
 
 Install the dependencies: npm install
 
@@ -24,13 +24,13 @@ Start the development server: npm run dev
 
 Open your web browser and visit: http://localhost:5173/
 
-Technologies Used
+# Technologies Used
 
 React.js: JavaScript library for building user interfaces.
 
 React Icons: A library of customizable icons for React components.
 
-HTML5/CSS3: Markup and styling of the application.
+HTML/CSS: Markup and styling of the application.
 
 Git: Version control system for tracking changes and collaboration.
 
